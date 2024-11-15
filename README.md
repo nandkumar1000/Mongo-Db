@@ -48,7 +48,7 @@ The project covers:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mongodb-node-express.git
+git clone https://github.com/nandkumar1000/mongodb-node-express.git
 ```
 
 2. Install dependencies:
